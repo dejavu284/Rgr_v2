@@ -1,7 +1,8 @@
 ﻿using System;
-using RGR_3_5;
 using System.Threading;
-
+/*
+ Финальная версия ргр
+ */
 namespace Rgr_v2
 {
     class INF
